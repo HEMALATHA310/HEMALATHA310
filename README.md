@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HEMALATHA310
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to work in a reputed company .
 - 📫 reach me at hemalatha3101999@gmail.com
 
 <!---
